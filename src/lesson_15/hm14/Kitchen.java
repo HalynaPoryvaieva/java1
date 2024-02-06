@@ -12,7 +12,7 @@ public class Kitchen {
     public Kitchen(String kitchenName){
         System.out.println(kitchenName);
     }
-    public void eboutKitchen(){
+    public void aboutKitchen(){
         System.out.println("kakaja mebel:"+name+" "+colour+" "+price);
     }
     void save(){
