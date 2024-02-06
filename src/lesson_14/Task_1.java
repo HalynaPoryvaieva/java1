@@ -1,4 +1,4 @@
-package lesson_13;
+package lesson_14;
 
 public class Task_1 {
 
@@ -26,7 +26,7 @@ public class Task_1 {
 //pproverka indexov
 
     public static void swap(int[] array, int index1, int index2) {
-        if (index1 < 0 || index1 >= array.length || index2 < 0 || index2 >= array.length) {
+        if (array==null||index1 < 0 || index1 >= array.length || index2 < 0 || index2 >= array.length) {
             System.out.println("Error");
             return;
 
