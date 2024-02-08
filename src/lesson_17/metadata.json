@@ -1,0 +1,16 @@
+{
+  "topic": "Encapsulation",
+  "date": "2024-02-07",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "src/ArrayObjects.java",
+   "src/Person.java",
+   "src/Cat.java",
+   "src/MainCat.java",
+   "src/ra/RubberArray.java",
+   "src/ra/ArrayTest.java"
+  ],
+  "video": ""
+}

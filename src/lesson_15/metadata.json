@@ -1,0 +1,16 @@
+{
+  "topic": "OOP - Object-oriented programming",
+  "date": "2024-02-05",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "/src/Cat.java",
+   "/src/CatsMain.java",
+   "/src/StepsGit.java",
+   "/src/hw14/HW14_Task0.java",
+   "/src/hw14/HW14_Task1.java",
+   "/src/hw14/HW14_Task2.java"
+  ],
+  "video": ""
+}

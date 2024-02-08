@@ -1,0 +1,18 @@
+{
+  "topic": "Rubber Array",
+  "date": "2024-02-06",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "src/RubberArray.java",
+   "src/MainRubberArray.java",
+   "src/Cat.java",
+   "src/Main16.java",
+   "src/Dog.java",
+   "src/MainDogs.java",
+   "src/hw14/HW14_Task3.java",
+   "src/hw14/HW14_Task4.java"
+  ],
+  "video": ""
+}
