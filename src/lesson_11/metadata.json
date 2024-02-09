@@ -1,0 +1,15 @@
+{
+  "topic": "Methods",
+  "date": "2024-01-30",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "src/Overloading.java",
+    "src/MethodsWithReturnValues.java",
+    "src/hw10/HW10_Task1.java",
+    "src/hw10/HW10_Task2.java"
+
+  ],
+  "video": ""
+}

@@ -1,0 +1,19 @@
+{
+  "topic": "Type char, class String",
+  "date": "2024-01-19",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/src/Increment.java",
+    "code/src/CharExample.java",
+    "code/src/StringExample.java",
+    "code/src/Task0.java",
+    "code/src/Task1.java",
+    "code/src/Task2.java",
+    "code/src/Task3.java",
+    "code/src/Task4.java"
+
+  ],
+  "video": ""
+}

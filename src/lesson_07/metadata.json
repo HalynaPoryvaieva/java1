@@ -1,0 +1,16 @@
+{
+  "topic": "Switch, While, do-while loops",
+  "date": "2024-01-24",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+
+    "code/src/SwitchExample.java",
+    "code/src/WhileLoop.java",
+    "code/src/hw6/Task1.java",
+    "code/src/hw6/Task2.java"
+
+  ],
+  "video": ""
+}

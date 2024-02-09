@@ -1,0 +1,17 @@
+{
+  "topic": "final, Class Arrays",
+  "date": "2024-02-09",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "src/FinalDemo.java",
+   "src/Main19.java",
+   "src/Employee.java",
+   "src/MainEmployee.java",
+   "src/ArraysUse.java",
+   "src/hw18/Dog.java",
+   "src/hw18/JumpingDog.java"
+  ],
+  "video": ""
+}

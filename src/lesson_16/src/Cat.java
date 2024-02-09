@@ -1,4 +1,4 @@
-package lesson_16.src;/*
+/*
 @date 05.02.2024
 @author Sergey Bugaienko
 */

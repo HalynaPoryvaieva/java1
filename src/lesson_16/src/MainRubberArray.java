@@ -1,4 +1,4 @@
-package lesson_16.src;/*
+/*
 @date 06.02.2024
 @author Sergey Bugaienko
 */
@@ -6,7 +6,7 @@ package lesson_16.src;/*
 public class MainRubberArray {
     public static void main(String[] args) {
 
-        ra.RubberArray ra = new ra.RubberArray();
+        RubberArray ra = new RubberArray();
 
         System.out.println(ra.toString());
 

@@ -1,0 +1,14 @@
+{
+  "topic": "linear search, selective sorting, binary search",
+  "date": "2024-01-31",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "src/ArrayUtils.java",
+    "src/hw11/HW11_Task1.java",
+    "src/hw11/HW11_Task2.java",
+    "src/hw11/HW11_Task3.java"
+  ],
+  "video": ""
+}

@@ -1,0 +1,15 @@
+{
+  "topic": "For Loop, Methods",
+  "date": "2024-01-26",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/src/ForLoop.java",
+    "code/src/Methods.java",
+    "code/src/hw8/Task2.java",
+    "code/src/hw8/Task3_4.java",
+    "code/src/hw8/Task5.java"
+  ],
+  "video": ""
+}

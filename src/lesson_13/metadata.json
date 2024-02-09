@@ -1,0 +1,13 @@
+{
+  "topic": "Git and GitHub",
+  "date": "2024-02-01",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "src/hw/HW12_Task1.java",
+    "src/hw/HW12_Task2.java",
+    "src/hw/HW12_Task3.java"
+  ],
+  "video": ""
+}

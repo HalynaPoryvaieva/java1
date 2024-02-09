@@ -1,0 +1,17 @@
+{
+  "topic": "Methods void",
+  "date": "2024-01-29",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+    "code/src/MethodsExample.java",
+    "code/src/BreakContinue.java",
+    "code/src/hw/HW09_Task1.java",
+    "code/src/hw/HW09_Task2.java",
+    "code/src/hw/HW09_Task3.java",
+    "code/src/hw/HW09_Task4.java"
+
+  ],
+  "video": ""
+}

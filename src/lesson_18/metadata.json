@@ -1,0 +1,18 @@
+{
+  "topic": "Static, final",
+  "date": "2024-02-08",
+  "plan": "plan.md",
+  "theory": "theory.md",
+  "homework": "homework.md",
+  "code": [
+   "src/Car.java",
+   "src/Lesson18.java",
+   "src/Test.java",
+   "src/MathUtils.java",
+   "src/StaticBlockDemo.java",
+   "src/MainStaticBlock.java",
+   "src/ra/RubberArray.java",
+   "src/ra/ArrayTest.java"
+  ],
+  "video": ""
+}
