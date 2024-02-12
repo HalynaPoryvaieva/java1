@@ -22,7 +22,10 @@ public class Task_1 {
         int priceA=1000;
         int priceB=500;
         double sale;
+        double sumSale;
         sale=(priceA+priceB)/100*10;
+        sumSale=(priceA+priceB)-sale;
         System.out.println("Sale:"+sale);
+        System.out.println("sumSale:"+sumSale);
     }
 }
