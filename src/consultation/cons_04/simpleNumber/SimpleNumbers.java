@@ -1,4 +1,4 @@
-package simpleNumber;
+package consultation.cons_04.simpleNumber;
 
 public class SimpleNumbers {
     public static void main(String[] args) {

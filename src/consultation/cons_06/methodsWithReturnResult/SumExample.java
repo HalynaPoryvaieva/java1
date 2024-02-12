@@ -1,4 +1,4 @@
-package methodsWithReturnResult;
+package consultation.cons_06.methodsWithReturnResult;
 
 public class SumExample {
     public static void main(String[] args) {

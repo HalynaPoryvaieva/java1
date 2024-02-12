@@ -1,5 +1,5 @@
 
-package methodsWithReturnResult;
+package consultation.cons_06.methodsWithReturnResult;
 
 public class Calculator {
 

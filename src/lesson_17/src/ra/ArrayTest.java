@@ -4,6 +4,8 @@ package ra;
 @author Sergey Bugaienko
 */
 
+import lesson_18.src.ra.RubberArray;
+
 public class ArrayTest {
     public static void main(String[] args) {
 

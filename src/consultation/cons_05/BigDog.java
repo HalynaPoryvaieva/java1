@@ -1,3 +1,5 @@
+package consultation.cons_05;
+
 public class BigDog {
 
     String breed;

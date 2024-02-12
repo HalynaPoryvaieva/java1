@@ -1,4 +1,4 @@
-package homework_12;
+package lesson_13.src.hw;
 /*
 @date 01.02.2024
 @author Sergey Bugaienko

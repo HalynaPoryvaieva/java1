@@ -1,4 +1,4 @@
-package loop;
+package consultation.cons_03.loop;
 
 import java.util.Scanner;
 

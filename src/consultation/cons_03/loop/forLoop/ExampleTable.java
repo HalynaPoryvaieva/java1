@@ -1,4 +1,4 @@
-package loop.forLoop;
+package consultation.cons_03.loop.forLoop;
 
 public class ExampleTable {
     public static void main(String[] args) {

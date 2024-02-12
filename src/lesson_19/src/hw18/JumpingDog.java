@@ -1,4 +1,4 @@
-package hw18;
+package lesson_19.src.hw18;
 /*
 @date 09.02.2024
 @author Sergey Bugaienko

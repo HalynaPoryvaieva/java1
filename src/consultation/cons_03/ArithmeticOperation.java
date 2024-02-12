@@ -1,3 +1,5 @@
+package consultation.cons_03;
+
 public class ArithmeticOperation {
     public static void main(String[] args) {
 

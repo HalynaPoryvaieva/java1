@@ -1,3 +1,5 @@
+package consultation.cons_05;
+
 public class PhoneShop {
     public static void main(String[] args) {
         Phone phone1 = new Phone("Apple", "iPhone 15 Max Pro", "White", 6.7, 1500);

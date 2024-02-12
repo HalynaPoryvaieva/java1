@@ -1,4 +1,4 @@
-package task;
+package consultation.cons_06.task;
 
 public class Car {
 

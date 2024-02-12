@@ -1,3 +1,5 @@
+package lesson_09.code.src;
+
 import java.util.Random;
 
 public class ForLoop {

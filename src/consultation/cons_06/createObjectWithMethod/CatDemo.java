@@ -1,5 +1,5 @@
 
-package createObjectWithMethod;
+package consultation.cons_06.createObjectWithMethod;
 
 public class CatDemo {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package createObjectWithMethod;
+package consultation.cons_06.createObjectWithMethod;
 
 import java.util.Scanner;
 

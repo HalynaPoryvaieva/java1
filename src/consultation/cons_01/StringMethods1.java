@@ -1,6 +1,6 @@
+package consultation.cons_01;
 
-
-public class StringMethods {
+public class StringMethods1 {
     public static void main(String[] args) {
 
         String str1 = "One";

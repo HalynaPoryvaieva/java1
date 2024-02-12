@@ -1,4 +1,4 @@
-package hw11;
+package lesson_12.src.hw11;
 /*
 @date 01.02.2024
 @author Sergey Bugaienko

@@ -1,3 +1,5 @@
+package consultation.cons_05;
+
 public class PassportService {
     public static void main(String[] args) {
 

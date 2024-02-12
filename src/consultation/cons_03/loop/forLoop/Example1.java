@@ -1,7 +1,7 @@
-package loop.forLoop;
+package consultation.cons_03.loop.forLoop;
 
 
-import loop.UserInput;
+import consultation.cons_03.loop.UserInput;
 
 public class Example1 {
     public static void main(String[] args) {

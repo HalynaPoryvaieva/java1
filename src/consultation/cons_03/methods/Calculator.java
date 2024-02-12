@@ -1,4 +1,4 @@
-package methods;
+package consultation.cons_03.methods;
 
 public class Calculator {
 

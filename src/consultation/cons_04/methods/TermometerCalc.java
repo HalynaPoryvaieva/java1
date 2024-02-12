@@ -1,4 +1,4 @@
-package methods;
+package consultation.cons_04.methods;
 
 import java.util.Scanner;
 

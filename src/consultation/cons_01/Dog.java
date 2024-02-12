@@ -1,3 +1,5 @@
+package consultation.cons_01;
+
 public class Dog {
 
     String name;

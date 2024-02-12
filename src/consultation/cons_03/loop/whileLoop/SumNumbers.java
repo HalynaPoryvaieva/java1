@@ -1,4 +1,4 @@
-package loop.whileLoop;
+package consultation.cons_03.loop.whileLoop;
 
 import java.util.Scanner;
 

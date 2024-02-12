@@ -1,4 +1,4 @@
-package hw18;
+package lesson_19.src.hw18;
 /*
 @date 09.02.2024
 @author Sergey Bugaienko
@@ -24,27 +24,33 @@ package hw18;
 
  */
 public class Dog {
+    public static final int CONSTANTA = 10;
     private String name;
     private int jumpHeight;
 
     private int maxJumpHeight;
+    private static int sumJump;
 
     private static int increasePerOneTraining;
 
     static {
-        increasePerOneTraining = 10;
+        increasePerOneTraining = CONSTANTA;
     }
 
     public Dog(String name, int jumpHeight) {
         this.name = name;
         this.jumpHeight = jumpHeight;
         this.maxJumpHeight = jumpHeight * 2;
+
     }
 
 
     public void jump() {
         System.out.println("Собака " + name + " совершила прыжок");
+
+
     }
+
 
     private void training() {
         this.jumpHeight += increasePerOneTraining; // 44 + 10 = 54 < 88
@@ -59,7 +65,7 @@ public class Dog {
     }
 
     public boolean takeBarrier(int barrier) {
-        System.out.println(name + " прыжок: " + jumpHeight + "; барьер: " + barrier + " | Начало метода takeBarrier");
+        System.out.println(name + " прыжок: " + jumpHeight + "; барьер: " + barrier + " | Начало метода takeBarrier"+"CONSTANTA: "+CONSTANTA);
         if (jumpHeight >= barrier) { // Если текущая высота прыжка достаточна - прыгаем
             jump();
             System.out.println("(jumpHeight >= barrier) = true -> " + name + " прыжок: " + jumpHeight + "; барьер: " + barrier);
@@ -96,4 +102,22 @@ public class Dog {
     public void setName(String name) {
         this.name = name;
     }
+
+    //Task 0
+    //Будем дорабатывать наш класс Dog.
+    //
+    //Добавить в класс константу. Использовать эту константу
+    // в классе.
+    //
+    //Добавить в класс поле, в котором будет храниться
+    // количество прыжков, сделанных всеми объектами класса.
+    //
+    //Добавить в класс статический метод, возвращающий
+    // общее количество прыжков, сделанных всеми собаками
+  static void sumJump(){
+
+    }
+
+
+
 }

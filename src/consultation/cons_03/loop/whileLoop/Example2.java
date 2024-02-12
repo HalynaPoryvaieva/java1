@@ -1,7 +1,7 @@
-package loop.whileLoop;
+package consultation.cons_03.loop.whileLoop;
 
 
-import loop.UserInput;
+import consultation.cons_03.loop.UserInput;
 
 public class Example2 {
     public static void main(String[] args) {

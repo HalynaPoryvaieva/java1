@@ -1,3 +1,5 @@
+package consultation.cons_03;
+
 import java.util.Random;
 
 public class RandomExample {

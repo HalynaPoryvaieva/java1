@@ -1,4 +1,4 @@
-package ra;
+package lesson_18.src.ra;
 /*
 @date 06.02.2024
 @author Sergey Bugaienko

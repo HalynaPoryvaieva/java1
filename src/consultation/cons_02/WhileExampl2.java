@@ -1,3 +1,5 @@
+package consultation.cons_02;
+
 import java.util.Random;
 
 public class WhileExampl2 {

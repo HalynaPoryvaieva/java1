@@ -1,8 +1,11 @@
-package ra;
+package lesson_18.src.ra;
 /*
 @date 07.02.2024
 @author Sergey Bugaienko
 */
+
+
+
 
 public class ArrayTest {
     public static void main(String[] args) {
